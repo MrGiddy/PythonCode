@@ -1,2 +1,2 @@
 # Python Code
-This is a space for showcasing my journey in learning python.
+This is a space for documenting my journey in learning python.
