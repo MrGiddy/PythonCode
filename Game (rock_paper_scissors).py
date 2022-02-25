@@ -1,4 +1,4 @@
-# "Rock" "Paper" "Scissors"
+# Takes input from user to play "Rock" "Paper" "Scissors" game with computer
 import random
 computer_score = 0
 user_score = 0
