@@ -1,3 +1,4 @@
+# "Rock" "Paper" "Scissors"
 import random
 computer_score = 0
 user_score = 0
