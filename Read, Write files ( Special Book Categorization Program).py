@@ -1,7 +1,7 @@
 # Special book categorization program,
 # assigns each book a special code based on its title.
 
-# This code creates file with book titles in it
+# This code creates file with some book titles in each line
 file = open("books.txt", "w+")
 file.write("Harry Potter\nThe Hunger Games\nPride and Prejudice\nGone with the Wind\nSome book\nAnother book")
 file.close()
