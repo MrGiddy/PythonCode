@@ -1,4 +1,4 @@
-# Inventory Management Program
+# Simple Inventory Management Program
 # Uses a dictionary to track all of the store's inventory
 # along with how many of each item the store has.
 
