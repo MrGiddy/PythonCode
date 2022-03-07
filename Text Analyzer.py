@@ -17,7 +17,7 @@ for char in "abcdefghijklmnopqrstuvwxyz":
     perc = (count_char(text, char) / len(text)) * 100
     print("{0} - {1}%".format(char, round(perc, 2)))
 
-# prints number of words in text
+# prints number of words in the file
 x = text.split()
 print()
 print("The file has {} words.".format(len(x)))
