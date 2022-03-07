@@ -18,6 +18,5 @@ for char in "abcdefghijklmnopqrstuvwxyz":
     print("{0} - {1}%".format(char, round(perc, 2)))
 
 # prints number of words in the file
-x = text.split()
 print()
-print("The file has {} words.".format(len(x)))
+print("The file has {} words.".format(len(text.split())))
